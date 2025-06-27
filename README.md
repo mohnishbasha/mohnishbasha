@@ -35,4 +35,4 @@ I write at [serverless.fyi](https://www.serverless.fyi) and help early-stage sta
 ---
 
 ## 📈 GitHub Stats
-![Mohinish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohinish&show_icons=true&theme=tokyonight)
+![Mohinish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohnishbasha&show_icons=true&theme=tokyonight)
